@@ -1,0 +1,9 @@
+@media only screen and (max-width: 600px){
+    .content{
+        width: 80%;
+    }
+
+    .num{
+        padding-right: 20px;
+    }
+}

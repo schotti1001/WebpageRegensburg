@@ -1,0 +1,136 @@
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url("../fonts/RobotoSlab-Medium.ttf"); 
+    font-family: 'Source Sans Pro';
+    src: url("../fonts/SourceSansPro-Regular.ttf");
+}
+
+body {
+    font-family: 'Roboto Slab', serif;
+    margin: 0px;
+}
+
+header {
+    margin-top: 460px;
+    display: flex;
+    justify-content: center;
+    align-items: center;       
+}
+
+#banner{
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)),
+    url(../images/regensburg_panorama.jpg);
+
+    position: absolute;
+    top: 0px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#title{
+    color: white;
+    width: 805px;
+    text-align: center;
+    font-size: 36px;
+}
+
+#author{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 10;
+
+    font-family: 'Source Sans Pro', sans-serif;
+    color: rgb(51, 51, 51);
+    line-height: 24px;
+    font-size: 18px;
+}
+
+#authorName{
+    font-weight: bold;
+    margin: 0px;
+}
+
+#lastUpdate{
+    font-style: italic;
+    margin: 0px;
+    text-decoration: underline 2px #e6e6e6e6;
+    text-underline-offset: 10px;
+}
+
+#profilePic{
+    border-radius: 100%;
+    border: 1px solid white;
+    
+    height: 100px; 
+    width: 100px;
+}
+
+#wrapper{
+    padding-top: 60px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.location{
+    padding-bottom: 120px;
+
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.content{
+    width: 66.67%;
+    color: rgb(51, 51, 51);
+}
+
+.num{
+    font-weight: bold;
+    font-size: 36px;
+    padding-right: 40px;
+    color: rgba(0, 0, 0, 0.25);
+}
+
+.locationHeader{
+    font-weight: bold;
+    font-size: 36px;
+    margin-bottom: 0px;
+}
+
+.locationAdress{
+    color: #424bd6;
+    text-decoration: none;
+}
+
+.locationAdress:hover{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.locationText{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    line-height: 32px;
+    margin-top: 20px;
+}
+
+.locationTipp{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.tipp{
+    font-weight: bold;
+}
+
+.locationImg{
+    width: 100%;
+}

@@ -1,0 +1,38 @@
+  Regensburg: 4 Orte die du besucht haben musst
+  images/profile_pic
+  Ihr Vorname Ihr Nachname
+  Datum der letzten Änderung
+    
+    1.
+    Regensburger Dom
+    https://www.google.com/maps?q=Dom+St+Peter&ftid=0x479fc1a5d4612f6f:0x868578d45332b41f
+    Domplatz 1, 93047 Regensburg
+    Der Regensburger Dom (auch: Dom St. Peter, benannt nach dem hl. Petrus) ist die bedeutendste Kirche der Stadt Regensburg und die Kathedrale des Bistums Regensburg. Der Dom gehört neben dem Kölner Dom zu den bedeutendsten gotischen Kathedralen in Deutschland.
+    In Nachfolge eines romanischen Doms, von dem noch ein Turm (Eselsturm) erhalten ist, begann der Bau des gotischen Doms 1275. Ab 1450 war das Gebäude überdacht und nutzbar. Der Ausbau der beiden Domtürme und der Turmhelme erfolgte aber erst von 1859 bis 1869.
+    Tipp: Figur des „lachenden Engels“ am südwestlichen Vierungspfeiler
+    images/saint_peters_cathedral.jpg
+    
+    2.
+    Steinerne Brücke
+    https://www.google.com/maps/place/Steinerne+Br%C3%BCcke/@49.0217818,12.095081,17z/data=!3m1!4b1!4m5!3m4!1s0x479fc1a57a81a11b:0xbbc0d40690282cda!8m2!3d49.0217818!4d12.0972696?hl=de
+    93059 Regensburg
+    Bei einem Besuch in Regensburg darf man sie auf keinen Fall verpassen: Ein Meisterwerk der mittelalterlichen Baukunst in Deutschland – Die Steinerne Brücke.
+    Neben dem Regensburger Dom ist sie das bedeutendste Wahrzeichen der Stadt und war sicherlich ein Grund für die Aufnahme Regensburgs in die UNESCO-Welterbeliste. Die Steinerne Brücke, die den altbaierischen Stadtteil Stadtamhof mit der Regensburger Altstadt verbindet, galt im Mittelalter als ein echtes Weltwunder
+    Tipp: Die Dauerausstellung an der Südseite bestehend aus fünf Themenbereichen
+    images/stone_bridge_of_regensburg.jpg
+        
+    3.
+    Walhalla
+    https://www.google.com/maps/place/Walhalla/@49.0311478,12.2218883,17z/data=!3m1!4b1!4m5!3m4!1s0x479fc2981e4ed439:0x30f7b453e0138bb4!8m2!3d49.0311443!4d12.224077"
+    Walhallastraße 48, 93093 Donaustauf
+    In der Gedenkstätte Walhalla in Donaustauf im bayerischen Landkreis Regensburg werden – ursprünglich auf Veranlassung des bayerischen Königs Ludwig I. – seit 1842 bedeutende Persönlichkeiten „teutscher Zunge“ mit Marmorbüsten und Gedenktafeln geehrt. Benannt ist sie nach Walhall, der Halle der Gefallenen in der nordischen Mythologie. Der Architekt war Leo von Klenze.
+    Tipp: Mit dem Fahrrad, ein paar kühlen Bier und einem nettem Date die wunderbare Aussicht genießen
+    images/walhalla.jpg
+        
+    4.
+    Nepal-Himalaya-Pavillon
+    https://www.google.com/maps/place/Nepal+Himalaya+Pavillon/@49.020997,12.3708173,17z/data=!3m1!4b1!4m5!3m4!1s0x479fde1c728a9a27:0xefb3c1f1a2a3777c!8m2!3d49.020997!4d12.373006?hl=de
+    Martiniplatte, 93109 Wiesent
+    Nur 4 km von der Donau entfernt befindet sich ein besonderes Highlight der Region Regensburg. Als eines der schönsten und am Aufwändigsten errichteten Bauwerke zierte der Nepal-Himalaya-Pavillon einst die Expo 2000. Seit 2003 erfreut er in einer traumhaften Parkanlage zahlreiche Besucher in Wiesent.
+    Tipp: Nepal in Bayern - worauf wartest du?
+    images/nepal_himalaya_pavillon.jpg
